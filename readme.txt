@@ -5,3 +5,4 @@ Git tracks changes of files
 creating a new branch is quick and simple
 add merge
 test bug
+coding: utf-8
